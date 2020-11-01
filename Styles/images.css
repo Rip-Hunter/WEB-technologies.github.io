@@ -1,0 +1,21 @@
+.Main_img {
+	margin-left: 10%;
+	margin-top: 28%;
+	border: 2px solid #FF0012;
+	border-radius: 15px;
+}
+
+@media screen and (max-device-width: 1650px) {
+	.Main_img {
+		width: 300px;
+	}
+}
+
+img.img_hobbies {
+	width: 27%;
+	float: right;
+	margin-left: 1.5%;
+	margin-right: 2%;
+	border: 2px solid #FF0012;
+	border-radius: 15px;
+}
